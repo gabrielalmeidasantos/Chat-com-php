@@ -4,4 +4,4 @@
 
 # banco de dados:
 
-  crie uma banco de dados e crie as tabelas de acordo com o arquivo sql "bd.sql" que está na raiz do projeto, após criar as tabelas configure seu banco de dados no arquivo "config.php"
+  crie um banco de dados e crie as tabelas de acordo com o arquivo sql "bd.sql" que está na raiz do projeto, após criar as tabelas configure seu banco de dados no arquivo "config.php"
